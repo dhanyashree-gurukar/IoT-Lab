@@ -2,9 +2,9 @@
 
 ## List of Programs
 
-1. Microcontroller Experiments using Arduino or MSP430:
-    Sensor based Experiments
-        a. Temperature and humidity sensor
+<pre>1. Microcontroller Experiments using Arduino or MSP430:  
+    Sensor based Experiments  
+        a. Temperature and humidity sensor  
         b. Heart beat sensor
 
 2. Microcontroller Experiments using Arduino or MSP430:
@@ -53,4 +53,6 @@
 
 12. SOC Experiments using Raspberry PI or Ordroid Xu4:
         a. Ball switch
-        b. Tap sensor
+        b. Tap sensor</pre>
+
+        
